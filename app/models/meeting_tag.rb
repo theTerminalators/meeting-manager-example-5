@@ -1,0 +1,2 @@
+class MeetingTag < ApplicationRecord
+end
